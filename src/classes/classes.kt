@@ -3,7 +3,6 @@ package classes
  * - class name, class header, class body, surrounded by curly braces
  * - header and the body are optional
  * - if class has no body, curly braces can be omitted
- *
  * **/
 
 /** class declaration w/o any properties or user-defined constructors (non-parameterized is default by Kotlin)  **/
